@@ -21,7 +21,7 @@ class Solution {
         if (in.hasNextLine()) {
             in.nextLine();
         }
-        // Parse and store snail positions and detination positions
+        // Parse and store snail positions and destination positions
         // Assume everything else is '*'
         Map<Integer, Point> snailPos = new HashMap<>(n);
         List<Point> destPos = new ArrayList<>();
