@@ -93,14 +93,21 @@ Enunciado | Solución | Conceptos
 [Elevator](https://www.codingame.com/training/hard/elevator)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Elevator/Elevator.java)|
 [Hangman](https://www.codingame.com/training/hard/hangman)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Hangman/Hangman.java)|
 [Kolakoski Sequence](https://www.codingame.com/training/hard/kolakoski-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Kolakoski-sequence/Kolakoski-sequence.java)|
-[Maximising Integers](https://www.codingame.com/training/hard/maximising-integers)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Maximising-integers/Maximising-integers.java)|Greedy algorithms
+[Maximising Integers](https://www.codingame.com/training/hard/maximising-integers)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Hard/Maximising-integers/Maximising-integers.java)|Greedy algorithms
 [Mini Sudoku Solver](https://www.codingame.com/training/hard/mini-sudoku-solver)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Mini-sudoku-solver/Mini-sudoku-solver.java)|
-[TAN Network](https://www.codingame.com/training/hard/tan-network)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Tan-network/Tan-network.java)|Pathfinding, Graphs, Distances, Trigonometry
+[TAN Network](https://www.codingame.com/training/hard/tan-network)|[Java ❗](https://github.com/aflr/CodinGame/blob/main/Hard/Tan-network/Tan-network.java)|Pathfinding, Graphs, Distances, Trigonometry
 [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/The-greatest-number/The-greatest-number.java)|
 [Zergling Rush](https://www.codingame.com/training/hard/zergling-rush)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Zergling-rush/Zergling-rush.java)|
 
 ## Very hard
 Enunciado | Solución | Conceptos
 ----------|----------|----------
-[High-rise Building](https://www.codingame.com/training/expert/high-rise-buildings)|[Java](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/High-rise-buildings/High-rise-buildings.java)|
+[High-rise Building](https://www.codingame.com/training/expert/high-rise-buildings)|[Java ❗](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/High-rise-buildings/High-rise-buildings.java)|
 [Recurring Decimals](https://www.codingame.com/training/expert/recurring-decimals)|[Java](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/Recurring-decimals/Recurring-decimals.java)|
+
+<br>
+
+### Leyenda
+✨ = Solución notable por su originalidad o sencillez
+
+❗ = Solución notable por su elegancia
