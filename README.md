@@ -28,6 +28,12 @@ Enunciado | Solución | Conceptos
 [Embedded Chessboards](https://www.codingame.com/training/easy/embedded-chessboards)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Embedded-chessboards/Embedded-chessboards.java), [Java(golf)](https://github.com/aflr/CodinGame/blob/main/Easy/Embedded-chessboards/Embedded-chessboards-codegolf.java)|
 [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Encryption-decryption-of-enigma-machine/Encryption-decryption-of-enigma-machine.java)|Strings, Encoding, Cryptography, String manipulation
 [Equivalent Resistance, Circuit Building](https://www.codingame.com/training/easy/equivalent-resistance-circuit-building)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Equivalent-resistance-circuit-building/Equivalent-resistance-circuit-building.java)|Parsing, Physics
+[Euclid's Algorithm](https://www.codingame.com/training/easy/euclids-algorithm)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Euclids-algorithm/Euclids-algorithm.java), [JavaScript](https://github.com/aflr/CodinGame/blob/main/Easy/Euclids-algorithm/Euclids-algorithm.js)|Recursion, Mathematics
+[Fax Machine](https://www.codingame.com/training/easy/fax-machine)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Fax-machine/Fax-machine.java)|Compression
+[Folding Paper](https://www.codingame.com/training/easy/folding-paper)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Folding-paper/Folding-paper.java)|Loops, Sequences, Mathematics
+[Horse-Racing duals](https://www.codingame.com/training/easy/horse-racing-duals)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Horse-racing-duals/Horse-racing-duals.java), [Bash](https://github.com/aflr/CodinGame/blob/main/Easy/Horse-racing-duals/Horse-racing-duals.sh)|Loops
+[]()|[]()|
+[]()|[]()|
 []()|[]()|
 []()|[]()|
 []()|[]()|
