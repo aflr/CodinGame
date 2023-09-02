@@ -19,6 +19,16 @@ Enunciado | Solución | Conceptos
 [Binary Image](https://www.codingame.com/training/easy/binary-image)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Binary-image/Binary-image.java)|Arrays
 [Brackets, Extreme Edition.](https://www.codingame.com/training/easy/brackets-extreme-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Brackets-extreme-edition/Brackets-extreme-edition.java)|
 [Caesar is the Chief](https://www.codingame.com/training/easy/caesar-is-the-chief)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Caesar-is-the-chief/Caesar-is-the-chief.java)|String manipulation, Cipher
+[Container Terminal](https://www.codingame.com/training/easy/container-terminal)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Container-terminal/Container-terminal.java)|Stack
+[Create the longest sequence of 1s](https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Create-the-longest-sequence-of-1s/Create-the-longest-sequence-of-1s.java)|String manipulation
+[Create 'Turn Here' Signs](https://www.codingame.com/training/easy/create-turn-here-signs)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Create-turn-here-signs/Create-turn-here-signs.java)|Loops, Logic, String manipulation, Ascii Art
+[Crop-Circles](https://www.codingame.com/training/easy/crop-circles)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Crop-circles/Crop-circles.java)|2D array, Geometry, Ascii Art
+[Defibrillators](https://www.codingame.com/training/easy/defibrillators)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Defibrillators/Defibrillators.java)|Loops, Distances, Trigonometry
+[Detective Pikaptcha EP1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Detective-pikaptcha-ep1/Detective-pikaptcha-ep1.java)|Maze
+[Embedded Chessboards](https://www.codingame.com/training/easy/embedded-chessboards)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Embedded-chessboards/Embedded-chessboards.java), [Java(golf)](https://github.com/aflr/CodinGame/blob/main/Easy/Embedded-chessboards/Embedded-chessboards-codegolf.java)|
+[Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Encryption-decryption-of-enigma-machine/Encryption-decryption-of-enigma-machine.java)|Strings, Encoding, Cryptography, String manipulation
+[Equivalent Resistance, Circuit Building](https://www.codingame.com/training/easy/equivalent-resistance-circuit-building)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Equivalent-resistance-circuit-building/Equivalent-resistance-circuit-building.java)|Parsing, Physics
+[]()|[]()|
 []()|[]()|
 []()|[]()|
 []()|[]()|
