@@ -64,9 +64,27 @@ Enunciado | Solución | Conceptos
 ## Medium
 Enunciado | Solución | Conceptos
 ----------|----------|----------
-[]()|[]()|
-[]()|[]()|
-[]()|[]()|
+[Binary Sequence](https://www.codingame.com/training/medium/binary-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Binary-sequence/Binary-sequence.java)|
+[Brackets, Enhanced Edition](https://www.codingame.com/training/medium/brackets-enhanced-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Brackets-enhanced-edition/Brackets-enhanced-edition.java)|Parsing
+[Brackets, Extended Edition](https://www.codingame.com/training/medium/brackets-extended-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Brackets-extended-edition/Brackets-extended-edition.java)|Loops, Conditions
+[Conway Sequence](https://www.codingame.com/training/medium/conway-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Conway-sequence/Conway-sequence.java)|Sequences
+[Death First Search - Episode 1](https://www.codingame.com/training/medium/death-first-search-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Death-first-search-episode-1/Death-first-search-episode-1.java)|BFS, Graphs
+[Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Dont-panic-episode-1/Dont-panic-episode-1.java)|Conditions
+[Dwarfs Standing on the Shoulders of Giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Dwarfs-standing-on-the-shoulders-of-giants/Dwarfs-standing-on-the-shoulders-of-giants.java)|Memoization, Recursion, Graphs
+[Game of Life](https://www.codingame.com/training/medium/game-of-life)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Game-of-life/Game-of-life.java)|
+[Guessing N Cheating](https://www.codingame.com/training/medium/guessing-n-cheating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Guessing-n-cheating/Guessing-n-cheating.java)|Sets, Conditions, Logic
+[IP Mask Calculating](https://www.codingame.com/training/medium/ip-mask-calculating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Ip-mask-calculating/Ip-mask-calculating.java)|Loops
+[Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Mayan-calculation/Mayan-calculation.java)|Strings, Radix
+[Network Cabling](https://www.codingame.com/training/medium/network-cabling)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Network-cabling/Network-cabling.java)|Loops, Distances, Medians
+[Reverse Polish Notation](https://www.codingame.com/training/medium/reverse-polish-notation)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Reverse-polish-notation/Reverse-polish-notation.java)|Stack, Reverse Polish Notation, Interpreters
+[Scrabble](https://www.codingame.com/training/medium/scrabble)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Scrabble/Scrabble.java)|Loops, Conditions
+[Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Shadows-of-the-knight-episode-1/Shadows-of-the-knight-episode-1.java)|Binary search, Intervals
+[Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Stock-exchange-losses/Stock-exchange-losses.java)|Arrays, Loops, Conditions
+[Sudoku Solver](https://www.codingame.com/training/medium/sudoku-solver)|[C++](https://github.com/aflr/CodinGame/blob/main/Medium/Sudoku-solver/Sudoku-solver.cpp), [Java](https://github.com/aflr/CodinGame/blob/main/Medium/Sudoku-solver/Sudoku-solver.java)|Backtracking
+[Tennis Score](https://www.codingame.com/training/medium/tennis-score)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Tennis-score/Tennis-score.java)|Arrays, Loops, Conditions
+[The Fall - Episode 1](https://www.codingame.com/training/medium/the-fall-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/The-fall-episode-1/The-fall-episode-1.java)|Conditions
+[The Gift](https://www.codingame.com/training/medium/the-gift)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/The-gift/The-gift.java)|Greedy algorithms
+[There Is No Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/There-is-no-spoon-episode-1/There-is-no-spoon-episode-1.java)|Lists
 
 
 ## Hard
