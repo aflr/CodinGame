@@ -6,7 +6,7 @@
 📚 Es posible visitar mi perfil [aquí](https://www.codingame.com/profile/77c0ada52cc750ea5fd2dfe796989d5d0986465).
 
 
-## Easy
+## Fácil / Easy
 Enunciado | Solución | Conceptos
 ----------|----------|----------
 [1000000000D World](https://www.codingame.com/training/easy/1000000000d-world)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/1000000000d-world/1000000000d-world.java)|Arrays
@@ -61,7 +61,7 @@ Enunciado | Solución | Conceptos
 [Wordle Colorizer](https://www.codingame.com/training/easy/wordle-colorizer)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Wordle-colorizer/Wordle-colorizer.java)|
 
 
-## Medium
+## Medio / Medium
 Enunciado | Solución | Conceptos
 ----------|----------|----------
 [Binary Sequence](https://www.codingame.com/training/medium/binary-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Binary-sequence/Binary-sequence.java)|
@@ -87,7 +87,7 @@ Enunciado | Solución | Conceptos
 [There Is No Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/There-is-no-spoon-episode-1/There-is-no-spoon-episode-1.java)|Lists
 
 
-## Hard
+## Difícil / Hard
 Enunciado | Solución | Conceptos
 ----------|----------|----------
 [Elevator](https://www.codingame.com/training/hard/elevator)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Elevator/Elevator.java)|
@@ -99,7 +99,7 @@ Enunciado | Solución | Conceptos
 [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/The-greatest-number/The-greatest-number.java)|
 [Zergling Rush](https://www.codingame.com/training/hard/zergling-rush)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Zergling-rush/Zergling-rush.java)|
 
-## Very hard
+## Muy difícil / Very hard
 Enunciado | Solución | Conceptos
 ----------|----------|----------
 [High-rise Building](https://www.codingame.com/training/expert/high-rise-buildings)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/High-rise-buildings/High-rise-buildings.java)|
