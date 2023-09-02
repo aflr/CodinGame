@@ -5,8 +5,8 @@
 
 📚 Es posible visitar mi perfil [aquí](https://www.codingame.com/profile/77c0ada52cc750ea5fd2dfe796989d5d0986465).
 
-## Easy
 
+## Easy
 Enunciado | Solución | Conceptos
 ----------|----------|----------
 [1000000000D World](https://www.codingame.com/training/easy/1000000000d-world)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/1000000000d-world/1000000000d-world.java)|Arrays
@@ -32,25 +32,54 @@ Enunciado | Solución | Conceptos
 [Fax Machine](https://www.codingame.com/training/easy/fax-machine)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Fax-machine/Fax-machine.java)|Compression
 [Folding Paper](https://www.codingame.com/training/easy/folding-paper)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Folding-paper/Folding-paper.java)|Loops, Sequences, Mathematics
 [Horse-Racing duals](https://www.codingame.com/training/easy/horse-racing-duals)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Horse-racing-duals/Horse-racing-duals.java), [Bash](https://github.com/aflr/CodinGame/blob/main/Easy/Horse-racing-duals/Horse-racing-duals.sh)|Loops
-[]()|[]()|
-[]()|[]()|
-[]()|[]()|
-[]()|[]()|
-[]()|[]()|
-[]()|[]()|
+[Hunger Games](https://www.codingame.com/training/easy/hunger-games)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Hunger-games/Hunger-games.java)|Sorting
+[ISBN Check Digit](https://www.codingame.com/training/easy/isbn-check-digit)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/ISBN-check-digit/ISBN-check-digit.java)|Check-digit, Arithmetic
+[IPv6 Shortener](https://www.codingame.com/training/easy/ipv6-shortener)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Ipv6-shortener/Ipv6-shortener.java)|Strings, Parsing, Loops, Regular expressions
+[Is that a possible word?](https://www.codingame.com/training/easy/is-that-a-possible-word)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Is-that-a-possible-word/Is-that-a-possible-word.java)|State machine
+[Largest Number](https://www.codingame.com/training/easy/largest-number)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Largest-number/Largest-number.java)|
+[Logic Gates](https://www.codingame.com/training/easy/logic-gates)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Logic-gates/Logic-gates.java)|Logic
+[Lumen](https://www.codingame.com/training/easy/lumen)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Lumen/Lumen.java)|Loops, 2D array
+[MIME Type](https://www.codingame.com/training/easy/mime-type)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/MIME-type/MIME-type.java)|Strings, Hash tables, Loops, Conditions
+[Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1)|[C](https://github.com/aflr/CodinGame/blob/main/Easy/Mars-lander-episode-1/Mars-lander-episode-1.c), [C++](https://github.com/aflr/CodinGame/blob/main/Easy/Mars-lander-episode-1/Mars-lander-episode-1.cpp), [Java](https://github.com/aflr/CodinGame/blob/main/Easy/Mars-lander-episode-1/Mars-lander-episode-1.java)|Conditions
+[Moves in Maze](https://www.codingame.com/training/easy/moves-in-maze)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Moves-in-maze/Moves-in-maze.java)|Flood fill, BFS, Maze
+[Next Car License Plate?](https://www.codingame.com/training/easy/next-car-license-plate)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Next-car-license-plate/Next-car-license-plate.java)|Sequences, Mathematics
+[Offset Arrays](https://www.codingame.com/training/easy/offset-arrays)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Offset-arrays/Offset-arrays.java)|Parsing, Recursion
+[Onboarding](https://www.codingame.com/training/easy/onboarding)|[C](https://github.com/aflr/CodinGame/blob/main/Easy/Onboarding/Onboarding.c), [C++](https://github.com/aflr/CodinGame/blob/main/Easy/Onboarding/Onboarding.cpp), [Java](https://github.com/aflr/CodinGame/blob/main/Easy/Onboarding/Onboarding.java), [JavaScript](https://github.com/aflr/CodinGame/blob/main/Easy/Onboarding/Onboarding.js), [Python3](https://github.com/aflr/CodinGame/blob/main/Easy/Onboarding/Onboarding.py), [Bash](https://github.com/aflr/CodinGame/blob/main/Easy/Onboarding/Onboarding.sh)|Conditions
+[Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Power-of-thor-episode-1/Power-of-thor-episode-1.java)|Conditions
+[Prefix Code](https://www.codingame.com/training/easy/prefix-code)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Prefix-code/Prefix-code.java)|Tries, String manipulation
+[Retro Typewriter Art](https://www.codingame.com/training/easy/retro-typewriter-art)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Retro-typewriter-art/Retro-typewriter-art.java)|Parsing, Ascii Art
+[Reverse Minesweeper](https://www.codingame.com/training/easy/reverse-minesweeper)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Reverse-minesweeper/Reverse-minesweeper.java)|2D array
+[Rocks, Papers, Scissors-es](https://www.codingame.com/training/easy/rocks-papers-scissors-es)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Rocks-papers-scissors-es/Rocks-paper-scissors-es.java)|
+[Should bakers be frugal?](https://www.codingame.com/training/easy/should-bakers-be-frugal)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Should-bakers-be-frugal/Should-bakers-be-frugal.java)|Strive for Simplicity, Resouce management, Simulation, Mathematics, Geometry
+[Snail Run](https://www.codingame.com/training/easy/snail-run)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Snail-run/Snail-run.java)|Arrays, Loops
+[Stunning Numbers](https://www.codingame.com/training/easy/stunning-numbers)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Stunning-numbers/Stunning-numbers.java)|Numbers
+[Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Sudoku-validator/Sudoku-validator.java)|Conditions, 2D array
+[Temperatures](https://www.codingame.com/training/easy/temperatures)|[C](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.c), [Java](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.java), [JavaScript](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.js), [Lua](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.lua), [PHP](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.php), [Python3](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.py), [TypeScript](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.ts)|Arrays, Loops, Conditions
+[The Descent](https://www.codingame.com/training/easy/the-descent)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-descent/The-descent.java)|Loops
+[The River I.](https://www.codingame.com/training/easy/the-river-i-)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-river-i/The-river-i.java)|Conditions
+[Unary](https://www.codingame.com/training/easy/unary)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Unary/Unary.java)|Strings, Encoding, Loops, Conditions
+[Wordle Colorizer](https://www.codingame.com/training/easy/wordle-colorizer)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Wordle-colorizer/Wordle-colorizer.java)|
 
 
 ## Medium
-
 Enunciado | Solución | Conceptos
 ----------|----------|----------
+[]()|[]()|
+[]()|[]()|
+[]()|[]()|
+
 
 ## Hard
-
 Enunciado | Solución | Conceptos
 ----------|----------|----------
+[]()|[]()|
+[]()|[]()|
+[]()|[]()|
+
 
 ## Very hard
-
 Enunciado | Solución | Conceptos
 ----------|----------|----------
+[]()|[]()|
+[]()|[]()|
+[]()|[]()|
