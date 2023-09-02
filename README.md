@@ -22,7 +22,7 @@ Enunciado | Solución | Conceptos
 [Container Terminal](https://www.codingame.com/training/easy/container-terminal)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Container-terminal/Container-terminal.java)|Stack
 [Create the longest sequence of 1s](https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Create-the-longest-sequence-of-1s/Create-the-longest-sequence-of-1s.java)|String manipulation
 [Create 'Turn Here' Signs](https://www.codingame.com/training/easy/create-turn-here-signs)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Create-turn-here-signs/Create-turn-here-signs.java)|Loops, Logic, String manipulation, Ascii Art
-[Crop-Circles](https://www.codingame.com/training/easy/crop-circles)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Crop-circles/Crop-circles.java)|2D array, Geometry, Ascii Art
+[Crop-Circles](https://www.codingame.com/training/easy/crop-circles)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Easy/Crop-circles/Crop-circles.java)|2D array, Geometry, Ascii Art
 [Defibrillators](https://www.codingame.com/training/easy/defibrillators)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Defibrillators/Defibrillators.java)|Loops, Distances, Trigonometry
 [Detective Pikaptcha EP1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Detective-pikaptcha-ep1/Detective-pikaptcha-ep1.java)|Maze
 [Embedded Chessboards](https://www.codingame.com/training/easy/embedded-chessboards)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Embedded-chessboards/Embedded-chessboards.java), [Java(golf)](https://github.com/aflr/CodinGame/blob/main/Easy/Embedded-chessboards/Embedded-chessboards-codegolf.java)|
@@ -34,7 +34,7 @@ Enunciado | Solución | Conceptos
 [Horse-Racing duals](https://www.codingame.com/training/easy/horse-racing-duals)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Horse-racing-duals/Horse-racing-duals.java), [Bash](https://github.com/aflr/CodinGame/blob/main/Easy/Horse-racing-duals/Horse-racing-duals.sh)|Loops
 [Hunger Games](https://www.codingame.com/training/easy/hunger-games)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Hunger-games/Hunger-games.java)|Sorting
 [ISBN Check Digit](https://www.codingame.com/training/easy/isbn-check-digit)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/ISBN-check-digit/ISBN-check-digit.java)|Check-digit, Arithmetic
-[IPv6 Shortener](https://www.codingame.com/training/easy/ipv6-shortener)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Ipv6-shortener/Ipv6-shortener.java)|Strings, Parsing, Loops, Regular expressions
+[IPv6 Shortener](https://www.codingame.com/training/easy/ipv6-shortener)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Easy/Ipv6-shortener/Ipv6-shortener.java)|Strings, Parsing, Loops, Regular expressions
 [Is that a possible word?](https://www.codingame.com/training/easy/is-that-a-possible-word)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Is-that-a-possible-word/Is-that-a-possible-word.java)|State machine
 [Largest Number](https://www.codingame.com/training/easy/largest-number)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Largest-number/Largest-number.java)|
 [Logic Gates](https://www.codingame.com/training/easy/logic-gates)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Logic-gates/Logic-gates.java)|Logic
@@ -51,7 +51,7 @@ Enunciado | Solución | Conceptos
 [Reverse Minesweeper](https://www.codingame.com/training/easy/reverse-minesweeper)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Reverse-minesweeper/Reverse-minesweeper.java)|2D array
 [Rocks, Papers, Scissors-es](https://www.codingame.com/training/easy/rocks-papers-scissors-es)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Rocks-papers-scissors-es/Rocks-paper-scissors-es.java)|
 [Should bakers be frugal?](https://www.codingame.com/training/easy/should-bakers-be-frugal)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Should-bakers-be-frugal/Should-bakers-be-frugal.java)|Strive for Simplicity, Resouce management, Simulation, Mathematics, Geometry
-[Snail Run](https://www.codingame.com/training/easy/snail-run)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Snail-run/Snail-run.java)|Arrays, Loops
+[Snail Run](https://www.codingame.com/training/easy/snail-run)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Easy/Snail-run/Snail-run.java)|Arrays, Loops
 [Stunning Numbers](https://www.codingame.com/training/easy/stunning-numbers)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Stunning-numbers/Stunning-numbers.java)|Numbers
 [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Sudoku-validator/Sudoku-validator.java)|Conditions, 2D array
 [Temperatures](https://www.codingame.com/training/easy/temperatures)|[C](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.c), [Java](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.java), [JavaScript](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.js), [Lua](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.lua), [PHP](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.php), [Python3](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.py), [TypeScript](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.ts)|Arrays, Loops, Conditions
@@ -70,7 +70,7 @@ Enunciado | Solución | Conceptos
 [Conway Sequence](https://www.codingame.com/training/medium/conway-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Conway-sequence/Conway-sequence.java)|Sequences
 [Death First Search - Episode 1](https://www.codingame.com/training/medium/death-first-search-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Death-first-search-episode-1/Death-first-search-episode-1.java)|BFS, Graphs
 [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Dont-panic-episode-1/Dont-panic-episode-1.java)|Conditions
-[Dwarfs Standing on the Shoulders of Giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Dwarfs-standing-on-the-shoulders-of-giants/Dwarfs-standing-on-the-shoulders-of-giants.java)|Memoization, Recursion, Graphs
+[Dwarfs Standing on the Shoulders of Giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Medium/Dwarfs-standing-on-the-shoulders-of-giants/Dwarfs-standing-on-the-shoulders-of-giants.java)|Memoization, Recursion, Graphs
 [Game of Life](https://www.codingame.com/training/medium/game-of-life)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Game-of-life/Game-of-life.java)|
 [Guessing N Cheating](https://www.codingame.com/training/medium/guessing-n-cheating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Guessing-n-cheating/Guessing-n-cheating.java)|Sets, Conditions, Logic
 [IP Mask Calculating](https://www.codingame.com/training/medium/ip-mask-calculating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Ip-mask-calculating/Ip-mask-calculating.java)|Loops
@@ -80,7 +80,7 @@ Enunciado | Solución | Conceptos
 [Scrabble](https://www.codingame.com/training/medium/scrabble)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Scrabble/Scrabble.java)|Loops, Conditions
 [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Shadows-of-the-knight-episode-1/Shadows-of-the-knight-episode-1.java)|Binary search, Intervals
 [Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Stock-exchange-losses/Stock-exchange-losses.java)|Arrays, Loops, Conditions
-[Sudoku Solver](https://www.codingame.com/training/medium/sudoku-solver)|[C++](https://github.com/aflr/CodinGame/blob/main/Medium/Sudoku-solver/Sudoku-solver.cpp), [Java](https://github.com/aflr/CodinGame/blob/main/Medium/Sudoku-solver/Sudoku-solver.java)|Backtracking
+[Sudoku Solver](https://www.codingame.com/training/medium/sudoku-solver)|[C++](https://github.com/aflr/CodinGame/blob/main/Medium/Sudoku-solver/Sudoku-solver.cpp), [Java ✨](https://github.com/aflr/CodinGame/blob/main/Medium/Sudoku-solver/Sudoku-solver.java)|Backtracking
 [Tennis Score](https://www.codingame.com/training/medium/tennis-score)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Tennis-score/Tennis-score.java)|Arrays, Loops, Conditions
 [The Fall - Episode 1](https://www.codingame.com/training/medium/the-fall-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/The-fall-episode-1/The-fall-episode-1.java)|Conditions
 [The Gift](https://www.codingame.com/training/medium/the-gift)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/The-gift/The-gift.java)|Greedy algorithms
@@ -95,19 +95,17 @@ Enunciado | Solución | Conceptos
 [Kolakoski Sequence](https://www.codingame.com/training/hard/kolakoski-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Kolakoski-sequence/Kolakoski-sequence.java)|
 [Maximising Integers](https://www.codingame.com/training/hard/maximising-integers)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Hard/Maximising-integers/Maximising-integers.java)|Greedy algorithms
 [Mini Sudoku Solver](https://www.codingame.com/training/hard/mini-sudoku-solver)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Mini-sudoku-solver/Mini-sudoku-solver.java)|
-[TAN Network](https://www.codingame.com/training/hard/tan-network)|[Java ❗](https://github.com/aflr/CodinGame/blob/main/Hard/Tan-network/Tan-network.java)|Pathfinding, Graphs, Distances, Trigonometry
+[TAN Network](https://www.codingame.com/training/hard/tan-network)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Hard/Tan-network/Tan-network.java)|Pathfinding, Graphs, Distances, Trigonometry
 [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/The-greatest-number/The-greatest-number.java)|
 [Zergling Rush](https://www.codingame.com/training/hard/zergling-rush)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Zergling-rush/Zergling-rush.java)|
 
 ## Very hard
 Enunciado | Solución | Conceptos
 ----------|----------|----------
-[High-rise Building](https://www.codingame.com/training/expert/high-rise-buildings)|[Java ❗](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/High-rise-buildings/High-rise-buildings.java)|
+[High-rise Building](https://www.codingame.com/training/expert/high-rise-buildings)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/High-rise-buildings/High-rise-buildings.java)|
 [Recurring Decimals](https://www.codingame.com/training/expert/recurring-decimals)|[Java](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/Recurring-decimals/Recurring-decimals.java)|
 
 <br>
 
 ### Leyenda
-✨ = Solución notable por su originalidad o sencillez
-
-❗ = Solución notable por su elegancia
+✨ = Solución notable
