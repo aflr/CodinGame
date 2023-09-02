@@ -10,6 +10,19 @@
 Enunciado | Solución | Conceptos
 ----------|----------|----------
 [1000000000D World](https://www.codingame.com/training/easy/1000000000d-world)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/1000000000d-world/1000000000d-world.java)|Arrays
+[1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/1d-spreadsheet/1d-spreadsheet.java)|Memoization, Lazy Evaluation, Dependency Graph
+[7-Segment Scanner](https://www.codingame.com/training/easy/7-segment-scanner)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/7-segment-scanner/7-segment-scanner.java)|Loops, Conditions, String manipulation, Ascii Art
+[ASCII Art](https://www.codingame.com/training/easy/ascii-art)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/ASCII-art/ASCII-art.java)|Strings, Arrays, Loops
+[abcdefghijklmnopqrstuvwxyz](https://www.codingame.com/training/easy/abcdefghijklmnopqrstuvwxyz)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Abcdefghijklmnopqrstuvwxyz/Abcdefghijklmnopqrstuvwxyz.java)|BFS, DFS, Arrays
+[Annihilation](https://www.codingame.com/training/easy/annihilation)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Annihilation/Annihilation.java)|
+[Asteroids](https://www.codingame.com/training/easy/asteroids)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Asteroids/Asteroids.java)|
+[Binary Image](https://www.codingame.com/training/easy/binary-image)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Binary-image/Binary-image.java)|Arrays
+[Brackets, Extreme Edition.](https://www.codingame.com/training/easy/brackets-extreme-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Brackets-extreme-edition/Brackets-extreme-edition.java)|
+[Caesar is the Chief](https://www.codingame.com/training/easy/caesar-is-the-chief)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Caesar-is-the-chief/Caesar-is-the-chief.java)|String manipulation, Cipher
+[]()|[]()|
+[]()|[]()|
+[]()|[]()|
+
 
 ## Medium
 
