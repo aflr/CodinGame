@@ -77,6 +77,7 @@ Enunciado | Solución | Conceptos
 [IP Mask Calculating](https://www.codingame.com/training/medium/ip-mask-calculating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Ip-mask-calculating/Ip-mask-calculating.java)|Loops
 [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Mayan-calculation/Mayan-calculation.java)|Strings, Radix
 [Network Cabling](https://www.codingame.com/training/medium/network-cabling)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Network-cabling/Network-cabling.java)|Loops, Distances, Medians
+[Paper Labyrinth](https://www.codingame.com/training/medium/paper-labyrinth)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Paper-labyrinth/Paper-labyrinth.java)|Strings, Pathfinding, BFS, Graphs, Compression
 [Reverse Polish Notation](https://www.codingame.com/training/medium/reverse-polish-notation)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Reverse-polish-notation/Reverse-polish-notation.java)|Stack, Reverse Polish Notation, Interpreters
 [Scrabble](https://www.codingame.com/training/medium/scrabble)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Scrabble/Scrabble.java)|Loops, Conditions
 [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Shadows-of-the-knight-episode-1/Shadows-of-the-knight-episode-1.java)|Binary search, Intervals
