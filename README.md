@@ -20,6 +20,7 @@ Enunciado | Solución | Conceptos
 [Binary Image](https://www.codingame.com/training/easy/binary-image)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Binary-image/Binary-image.java)|Arrays
 [Brackets, Extreme Edition.](https://www.codingame.com/training/easy/brackets-extreme-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Brackets-extreme-edition/Brackets-extreme-edition.java)|
 [Caesar is the Chief](https://www.codingame.com/training/easy/caesar-is-the-chief)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Caesar-is-the-chief/Caesar-is-the-chief.java)|String manipulation, Cipher
+[Catching Up](https://www.codingame.com/training/easy/catching-up)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Catching-up/Catching-up.java)|Pathfinding, BFS, Greedy algorithms, Graphs
 [Container Terminal](https://www.codingame.com/training/easy/container-terminal)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Container-terminal/Container-terminal.java)|Stack
 [Create the longest sequence of 1s](https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Create-the-longest-sequence-of-1s/Create-the-longest-sequence-of-1s.java)|String manipulation
 [Create 'Turn Here' Signs](https://www.codingame.com/training/easy/create-turn-here-signs)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Create-turn-here-signs/Create-turn-here-signs.java)|Loops, Logic, String manipulation, Ascii Art
