@@ -9,12 +9,10 @@ class Solution {
             System.out.print(x + " ");
             Set<String> nums = new HashSet<>();
             while (nums.add(x)) {
-                long num = 0;
-                for (char c : x.toCharArray()) {
-                    int d = ((int)c - '0');
-                    num += d * d;
-                }
-                x = Long.toString(num);
+                int num = 0;
+                for (char c : x.toCharArray()) 
+                    num += ((int)c - '0') * ((int)c - '0');
+                x = Integer.toString(num);
             }
             System.out.println(nums.contains("1") ? ":)" : ":(");
         }
