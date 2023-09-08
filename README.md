@@ -35,6 +35,7 @@ Enunciado | Solución | Conceptos
 [Euclid's Algorithm](https://www.codingame.com/training/easy/euclids-algorithm)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Euclids-algorithm/Euclids-algorithm.java), [JavaScript](https://github.com/aflr/CodinGame/blob/main/Easy/Euclids-algorithm/Euclids-algorithm.js)|Recursion, Mathematics
 [Fax Machine](https://www.codingame.com/training/easy/fax-machine)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Fax-machine/Fax-machine.java)|Compression
 [Folding Paper](https://www.codingame.com/training/easy/folding-paper)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Folding-paper/Folding-paper.java)|Loops, Sequences, Mathematics
+[Happy Numbers](https://www.codingame.com/training/easy/happy-numbers)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Happy-numbers/Happy-numbers.java)|Loops, Data Types
 [Horse-Racing duals](https://www.codingame.com/training/easy/horse-racing-duals)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Horse-racing-duals/Horse-racing-duals.java), [Bash](https://github.com/aflr/CodinGame/blob/main/Easy/Horse-racing-duals/Horse-racing-duals.sh)|Loops
 [Hunger Games](https://www.codingame.com/training/easy/hunger-games)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Hunger-games/Hunger-games.java)|Sorting
 [ISBN Check Digit](https://www.codingame.com/training/easy/isbn-check-digit)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/ISBN-check-digit/ISBN-check-digit.java)|Check-digit, Arithmetic
