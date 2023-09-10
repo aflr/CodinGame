@@ -65,6 +65,7 @@ Enunciado | Solución | Conceptos
 [The River I.](https://www.codingame.com/training/easy/the-river-i-)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-river-i/The-river-i.java)|Conditions
 [Unary](https://www.codingame.com/training/easy/unary)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Unary/Unary.java)|Strings, Encoding, Loops, Conditions
 [Wordle Colorizer](https://www.codingame.com/training/easy/wordle-colorizer)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Wordle-colorizer/Wordle-colorizer.java)|
+["You are the Father": Maury Povich Style](https://www.codingame.com/training/easy/you-are-the-father-maury-povich-style)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/You-are-the-father-maury-povich-style/You-are-the-father-maury-povich-style.java)|String manipulation
 
 
 ## Medio / Medium
