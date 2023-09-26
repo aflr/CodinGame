@@ -1,4 +1,4 @@
-<p align:"center"><img width="auto" height="150px" src="https://github.com/aflr/aflr/blob/main/src/CodinGame.png"></p>
+<p align:"center"><a href="https://www.codingame.com"><img width="auto" height="150px" src="https://github.com/aflr/aflr/blob/main/src/CodinGame.png"></a></p>
 
 🚀 Aquí se pueden encontrar algunas de mis soluciones funcionales a los puzles de programación de la página [CodinGame](https://www.codingame.com).
 
