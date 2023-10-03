@@ -68,6 +68,7 @@ Enunciado | Solución | Conceptos
 [The Descent](https://www.codingame.com/training/easy/the-descent)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-descent/The-descent.java)|Loops
 [The River I.](https://www.codingame.com/training/easy/the-river-i-)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-river-i/The-river-i.java)|Conditions
 [Unary](https://www.codingame.com/training/easy/unary)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Unary/Unary.java)|Strings, Encoding, Loops, Conditions
+[Where's Wally](https://www.codingame.com/training/easy/wheres-wally)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Wheres-wally/Wheres-wally.java)|Regular expressions, String manipulation, Ascii Art
 [Wordle Colorizer](https://www.codingame.com/training/easy/wordle-colorizer)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Wordle-colorizer/Wordle-colorizer.java)|
 ["You are the Father": Maury Povich Style](https://www.codingame.com/training/easy/you-are-the-father-maury-povich-style)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/You-are-the-father-maury-povich-style/You-are-the-father-maury-povich-style.java)|String manipulation
 
