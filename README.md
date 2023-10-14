@@ -12,7 +12,7 @@
 
 
 ## Easy
-Description | Solution | Themes
+Description | Solution | Concepts
 ----------|----------|----------
 [1000000000D World](https://www.codingame.com/training/easy/1000000000d-world)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/1000000000d-world/1000000000d-world.java)|Arrays
 [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/1d-spreadsheet/1d-spreadsheet.java)|Memoization, Lazy Evaluation, Dependency Graph
@@ -76,7 +76,7 @@ Description | Solution | Themes
 
 
 ## Medium
-Description | Solution | Themes
+Description | Solution | Concepts
 ----------|----------|----------
 [Binary Sequence](https://www.codingame.com/training/medium/binary-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Binary-sequence/Binary-sequence.java)|
 [Brackets, Enhanced Edition](https://www.codingame.com/training/medium/brackets-enhanced-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Brackets-enhanced-edition/Brackets-enhanced-edition.java)|Parsing
@@ -103,7 +103,7 @@ Description | Solution | Themes
 
 
 ## Hard
-Description | Solution | Themes
+Description | Solution | Concepts
 ----------|----------|----------
 [Elevator](https://www.codingame.com/training/hard/elevator)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Elevator/Elevator.java)|
 [Hangman](https://www.codingame.com/training/hard/hangman)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Hangman/Hangman.java)|
@@ -115,7 +115,7 @@ Description | Solution | Themes
 [Zergling Rush](https://www.codingame.com/training/hard/zergling-rush)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Zergling-rush/Zergling-rush.java)|
 
 ## Very hard
-Description | Solution | Themes
+Description | Solution | Concepts
 ----------|----------|----------
 [High-rise Building](https://www.codingame.com/training/expert/high-rise-buildings)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/High-rise-buildings/High-rise-buildings.java)|
 [Recurring Decimals](https://www.codingame.com/training/expert/recurring-decimals)|[Java](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/Recurring-decimals/Recurring-decimals.java)|
