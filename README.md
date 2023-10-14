@@ -1,10 +1,12 @@
 <p align:"center"><a href="https://www.codingame.com"><img width="auto" height="150px" src="https://github.com/aflr/aflr/blob/main/src/CodinGame.png"></a></p>
 
-🚀 Aquí se pueden encontrar algunas de mis soluciones funcionales a los puzles de programación de la página [CodinGame](https://www.codingame.com).
+🚀 Here you can find some of my functional solutions to [CodinGame](https://www.codingame.com) programming puzzles.
 
-☕ Las soluciones están escritas principalmente en Java, aunque hay también algunas en C, C++, JavaScript, PHP, o Python. Todo el código ha pasado con éxito los tests y validadores de CodinGame.
+☕ Solutions are written mostly in Java, although there are some in C, C++, JavaScript, PHP, or Python.
 
-📚 Es posible visitar mi perfil [**aquí**](https://www.codingame.com/profile/77c0ada52cc750ea5fd2dfe796989d5d0986465).
+✔️ All of the code has successfully passed the tests and validators in CodinGame. ✔️
+
+📚 It is possible to visit my profile [**here**](https://www.codingame.com/profile/77c0ada52cc750ea5fd2dfe796989d5d0986465).
 
 ![](https://img.shields.io/github/directory-file-count/aflr/CodinGame/Easy?label=Easy&color=green) ![](https://img.shields.io/github/directory-file-count/aflr/CodinGame/Medium?label=Medium&color=yellow) ![](https://img.shields.io/github/directory-file-count/aflr/CodinGame/Hard?label=Hard&color=red) ![](https://img.shields.io/github/directory-file-count/aflr/CodinGame/Very%20Hard?label=Very%20Hard&color=purple)
 
@@ -120,5 +122,5 @@ Description | Solution | Themes
 
 <br>
 
-### Leyenda
+### Legend
 ✨ = Notable solution
