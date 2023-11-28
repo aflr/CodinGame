@@ -112,6 +112,7 @@ Description | Solution | Concepts
 [Kolakoski Sequence](https://www.codingame.com/training/hard/kolakoski-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Kolakoski-sequence/Kolakoski-sequence.java)|
 [Maximising Integers](https://www.codingame.com/training/hard/maximising-integers)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Hard/Maximising-integers/Maximising-integers.java)|Greedy algorithms
 [Mini Sudoku Solver](https://www.codingame.com/training/hard/mini-sudoku-solver)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Mini-sudoku-solver/Mini-sudoku-solver.java)|
+[SHA-256 Hash](https://www.codingame.com/training/hard/sha-256-hash)|[C++](https://github.com/aflr/CodinGame/blob/main/Hard/Sha-256-hash/Sha-256-hash.cpp)|Cryptography
 [TAN Network](https://www.codingame.com/training/hard/tan-network)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Hard/Tan-network/Tan-network.java)|Pathfinding, Graphs, Distances, Trigonometry
 [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/The-greatest-number/The-greatest-number.java)|
 [Zergling Rush](https://www.codingame.com/training/hard/zergling-rush)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Zergling-rush/Zergling-rush.java)|
