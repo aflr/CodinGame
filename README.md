@@ -87,6 +87,7 @@ Description | Solution | Concepts
 [Brackets, Extended Edition](https://www.codingame.com/training/medium/brackets-extended-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Brackets-extended-edition/Brackets-extended-edition.java)|Loops, Conditions
 [Conway Sequence](https://www.codingame.com/training/medium/conway-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Conway-sequence/Conway-sequence.java)|Sequences
 [Death First Search - Episode 1](https://www.codingame.com/training/medium/death-first-search-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Death-first-search-episode-1/Death-first-search-episode-1.java)|BFS, Graphs
+[De-FizzBuzzer](https://www.codingame.com/training/medium/de-fizzbuzzer)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/De-fizzbuzzer/De-fizzbuzzer.java)|Strings, Arithmetic
 [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Dont-panic-episode-1/Dont-panic-episode-1.java)|Conditions
 [Dwarfs Standing on the Shoulders of Giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Medium/Dwarfs-standing-on-the-shoulders-of-giants/Dwarfs-standing-on-the-shoulders-of-giants.java)|Memoization, Recursion, Graphs
 [Game of Life](https://www.codingame.com/training/medium/game-of-life)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Game-of-life/Game-of-life.java)|
