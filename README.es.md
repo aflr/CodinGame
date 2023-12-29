@@ -125,7 +125,7 @@ Enunciado | Solución | Conceptos
 ## Muy difícil / Very hard
 Enunciado | Solución | Conceptos
 ----------|----------|----------
-[High-rise Building](https://www.codingame.com/training/expert/high-rise-buildings)|[C](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/High-rise-buildings/High-rise-buildings.c), [Java ✨](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/High-rise-buildings/High-rise-buildings.java)|
+[High-rise Building](https://www.codingame.com/training/expert/high-rise-buildings)|[C](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/High-rise-buildings/High-rise-buildings.c), [Java](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/High-rise-buildings/High-rise-buildings.java)|
 [Recurring Decimals](https://www.codingame.com/training/expert/recurring-decimals)|[Java](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/Recurring-decimals/Recurring-decimals.java)|
 
 <br>
