@@ -108,6 +108,7 @@ Enunciado | Solución | Conceptos
 [The Gift](https://www.codingame.com/training/medium/the-gift)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/The-gift/The-gift.java)|Greedy algorithms
 [There Is No Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/There-is-no-spoon-episode-1/There-is-no-spoon-episode-1.java)|Lists
 [Tiny Forest](https://www.codingame.com/training/medium/tiny-forest)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Tiny-forest/Tiny-forest.java)|Optimization, Simulation, 2D array
+[Valid brackets in code](https://www.codingame.com/training/medium/valid-brackets-in-code)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Valid-brackets-in-code/Valid-brackets-in-code.java)|Loops, Regular expressions, Stack, String manipulation
 [What the Brainfuck!](https://www.codingame.com/training/medium/what-the-brainfuck)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/What-the-brainfuck/What-the-brainfuck.java)|Interpreters
 
 
