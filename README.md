@@ -90,6 +90,7 @@ Description | Solution | Concepts
 [De-FizzBuzzer](https://www.codingame.com/training/medium/de-fizzbuzzer)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/De-fizzbuzzer/De-fizzbuzzer.java)|Strings, Arithmetic
 [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Dont-panic-episode-1/Dont-panic-episode-1.java)|Conditions
 [Dwarfs Standing on the Shoulders of Giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Medium/Dwarfs-standing-on-the-shoulders-of-giants/Dwarfs-standing-on-the-shoulders-of-giants.java)|Memoization, Recursion, Graphs
+[Format string validation](https://www.codingame.com/training/medium/format-string-validation)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Format-string-validation/Format-string-validation.java)|
 [Game of Life](https://www.codingame.com/training/medium/game-of-life)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Game-of-life/Game-of-life.java)|
 [Guessing N Cheating](https://www.codingame.com/training/medium/guessing-n-cheating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Guessing-n-cheating/Guessing-n-cheating.java)|Sets, Conditions, Logic
 [IP Mask Calculating](https://www.codingame.com/training/medium/ip-mask-calculating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Ip-mask-calculating/Ip-mask-calculating.java)|Loops
