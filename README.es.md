@@ -98,6 +98,7 @@ Enunciado | Solución | Conceptos
 [Network Cabling](https://www.codingame.com/training/medium/network-cabling)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Network-cabling/Network-cabling.java)|Loops, Distances, Medians
 [Paper Labyrinth](https://www.codingame.com/training/medium/paper-labyrinth)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Paper-labyrinth/Paper-labyrinth.java)|Strings, Pathfinding, BFS, Graphs, Compression
 [Reverse Polish Notation](https://www.codingame.com/training/medium/reverse-polish-notation)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Reverse-polish-notation/Reverse-polish-notation.java)|Stack, Reverse Polish Notation, Interpreters
+[Reversed Look-and-say](https://www.codingame.com/training/medium/reversed-look-and-say)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Reversed-look-and-say/Reversed-look-and-say.java)|Loops, String manipulation
 [Roman Sorting](https://www.codingame.com/training/medium/roman-sorting)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Roman-sorting/Roman-sorting.java)|Sorting
 [Scrabble](https://www.codingame.com/training/medium/scrabble)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Scrabble/Scrabble.java)|Loops, Conditions
 [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Shadows-of-the-knight-episode-1/Shadows-of-the-knight-episode-1.java)|Binary search, Intervals
