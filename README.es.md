@@ -125,6 +125,7 @@ Enunciado | Solución | Conceptos
 [SHA-256 Hash](https://www.codingame.com/training/hard/sha-256-hash)|[C++](https://github.com/aflr/CodinGame/blob/main/Hard/Sha-256-hash/Sha-256-hash.cpp)|Cryptography
 [TAN Network](https://www.codingame.com/training/hard/tan-network)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Hard/Tan-network/Tan-network.java)|Pathfinding, Graphs, Distances, Trigonometry
 [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/The-greatest-number/The-greatest-number.java)|
+[The Hidden Fortress](https://www.codingame.com/training/hard/the-hidden-fortress)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/The-hidden-fortress/The-hidden-fortress.java)|Logic
 [Zergling Rush](https://www.codingame.com/training/hard/zergling-rush)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Zergling-rush/Zergling-rush.java)|
 
 ## Muy difícil / Very hard
