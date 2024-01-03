@@ -86,6 +86,7 @@ Enunciado | Solución | Conceptos
 [Brackets, Enhanced Edition](https://www.codingame.com/training/medium/brackets-enhanced-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Brackets-enhanced-edition/Brackets-enhanced-edition.java)|Parsing
 [Brackets, Extended Edition](https://www.codingame.com/training/medium/brackets-extended-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Brackets-extended-edition/Brackets-extended-edition.java)|Loops, Conditions
 [Conway Sequence](https://www.codingame.com/training/medium/conway-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Conway-sequence/Conway-sequence.java)|Sequences
+[Custom Game of Life](https://www.codingame.com/training/medium/custom-game-of-life)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Custom-game-of-life/Custom-game-of-life.java)|Lists, Loops, Conditions, Simulation, 2D array
 [Death First Search - Episode 1](https://www.codingame.com/training/medium/death-first-search-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Death-first-search-episode-1/Death-first-search-episode-1.java)|BFS, Graphs
 [De-FizzBuzzer](https://www.codingame.com/training/medium/de-fizzbuzzer)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/De-fizzbuzzer/De-fizzbuzzer.java)|Strings, Arithmetic
 [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Dont-panic-episode-1/Dont-panic-episode-1.java)|Conditions
