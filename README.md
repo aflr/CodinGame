@@ -97,6 +97,7 @@ Description | Solution | Concepts
 [Game of Life](https://www.codingame.com/training/medium/game-of-life)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Game-of-life/Game-of-life.java)|
 [Guessing N Cheating](https://www.codingame.com/training/medium/guessing-n-cheating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Guessing-n-cheating/Guessing-n-cheating.java)|Sets, Conditions, Logic
 [IP Mask Calculating](https://www.codingame.com/training/medium/ip-mask-calculating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Ip-mask-calculating/Ip-mask-calculating.java)|Loops
+[Longest Increasing Subsequence](https://www.codingame.com/training/medium/longest-increasing-subsequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Longest-Increasing-Subsequence/Longest-Increasing-Subsequence.java)|Dynamic programming
 [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Mayan-calculation/Mayan-calculation.java)|Strings, Radix
 [Micro Assembly](https://www.codingame.com/training/medium/micro-assembly)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Micro-assembly/Micro-assembly.java)|Stack, Interpreters
 [Network Cabling](https://www.codingame.com/training/medium/network-cabling)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Network-cabling/Network-cabling.java)|Loops, Distances, Medians
