@@ -24,6 +24,7 @@ Description | Solution | Concepts
 [Asteroids](https://www.codingame.com/training/easy/asteroids)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Asteroids/Asteroids.java)|
 [Binary Image](https://www.codingame.com/training/easy/binary-image)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Binary-image/Binary-image.java)|Arrays
 [Brackets, Extreme Edition.](https://www.codingame.com/training/easy/brackets-extreme-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Brackets-extreme-edition/Brackets-extreme-edition.java)|
+[Build A Bookcase](https://www.codingame.com/training/easy/build-a-bookcase)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Build-a-bookcase/Build-a-bookcase.java)|Loops, Logic, Mathematics, Ascii Art
 [Caesar is the Chief](https://www.codingame.com/training/easy/caesar-is-the-chief)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Caesar-is-the-chief/Caesar-is-the-chief.java)|String manipulation, Cipher
 [Catching Up](https://www.codingame.com/training/easy/catching-up)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Catching-up/Catching-up.java)|Pathfinding, BFS, Greedy algorithms, Graphs
 [Container Terminal](https://www.codingame.com/training/easy/container-terminal)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Container-terminal/Container-terminal.java)|Stack
