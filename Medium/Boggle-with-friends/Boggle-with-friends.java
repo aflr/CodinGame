@@ -2,6 +2,7 @@ import java.util.*;
 
 class Solution {
 
+    private static final int N = 4;
     private static char[][] grid;
 
     public static void main(String args[]) {
@@ -9,8 +10,8 @@ class Solution {
         Scanner in = new Scanner(System.in);
 
         // Read grid
-        grid = new char[4][];
-        for (int i = 0; i < 4; i++)
+        grid = new char[N][];
+        for (int i = 0; i < N; i++)
             grid[i] = in.nextLine().replaceAll(" ", "").toCharArray();
 
         // Read player's words
@@ -92,8 +93,12 @@ class Solution {
     }
 
     private static boolean validInGrid(String word) {
-        //TODO
-		return true;
+        for (int i = 0; i < N; i++) {
+            for (int j = 0; j < N; j++) {
+                //TODO
+            }
+        }
+		return false;
 	}
 
     private static int wordValue(String word) {
