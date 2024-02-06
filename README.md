@@ -11,6 +11,7 @@
 ![](https://img.shields.io/github/directory-file-count/aflr/CodinGame/Easy?label=Easy&color=green) ![](https://img.shields.io/github/directory-file-count/aflr/CodinGame/Medium?label=Medium&color=yellow) ![](https://img.shields.io/github/directory-file-count/aflr/CodinGame/Hard?label=Hard&color=red) ![](https://img.shields.io/github/directory-file-count/aflr/CodinGame/Very%20Hard?label=Very%20Hard&color=purple)
 
 
+
 ## Easy
 Description | Solution | Concepts
 ----------|----------|----------
