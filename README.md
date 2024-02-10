@@ -100,6 +100,7 @@ Description | Solution | Concepts
 [ASCII Art with Logo Language](https://www.codingame.com/training/medium/ascii-art-with-logo-language)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Ascii-art-with-logo-language/Ascii-art-with-logo-language.java)|Ascii Art, Interpreters
 [Bijective Numeration](https://www.codingame.com/training/medium/bijective-numeration)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Bijective-numeration/Bijective-numeration.java)|Parsing, Encoding, Radix
 [Binary Sequence](https://www.codingame.com/training/medium/binary-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Binary-sequence/Binary-sequence.java)|
+[Boarding passes ready!](https://www.codingame.com/training/medium/boarding-passes-ready)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Boarding-passes-ready/Boarding-passes-ready.java)|
 [Boggle with Friends](https://www.codingame.com/training/medium/boggle-with-friends)|Solution hidden <!-- [Java](https://github.com/aflr/CodinGame/blob/main/Medium/Boggle-with-friends/Boggle-with-friends.java) -->|Lists, 2D array
 [Brackets, Enhanced Edition](https://www.codingame.com/training/medium/brackets-enhanced-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Brackets-enhanced-edition/Brackets-enhanced-edition.java)|Parsing
 [Brackets, Extended Edition](https://www.codingame.com/training/medium/brackets-extended-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Brackets-extended-edition/Brackets-extended-edition.java)|Loops, Conditions
