@@ -118,6 +118,7 @@ Description | Solution | Concepts
 [IP Mask Calculating](https://www.codingame.com/training/medium/ip-mask-calculating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Ip-mask-calculating/Ip-mask-calculating.java)|Loops
 [Longest Increasing Subsequence](https://www.codingame.com/training/medium/longest-increasing-subsequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Longest-Increasing-Subsequence/Longest-Increasing-Subsequence.java)|Dynamic programming
 [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Mayan-calculation/Mayan-calculation.java)|Strings, Radix
+[Maze](https://www.codingame.com/training/medium/maze)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Maze/Maze.java)|
 [Micro Assembly](https://www.codingame.com/training/medium/micro-assembly)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Micro-assembly/Micro-assembly.java)|Stack, Interpreters
 [Network Cabling](https://www.codingame.com/training/medium/network-cabling)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Network-cabling/Network-cabling.java)|Loops, Distances, Medians
 [Paper Labyrinth](https://www.codingame.com/training/medium/paper-labyrinth)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Paper-labyrinth/Paper-labyrinth.java)|Strings, Pathfinding, BFS, Graphs, Compression
