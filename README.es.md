@@ -28,6 +28,7 @@ Enunciado | Solución | Conceptos
 [Build A Bookcase](https://www.codingame.com/training/easy/build-a-bookcase)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Build-a-bookcase/Build-a-bookcase.java)|Loops, Logic, Mathematics, Ascii Art
 [Caesar is the Chief](https://www.codingame.com/training/easy/caesar-is-the-chief)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Caesar-is-the-chief/Caesar-is-the-chief.java)|String manipulation, Cipher
 [Catching Up](https://www.codingame.com/training/easy/catching-up)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Catching-up/Catching-up.java)|Pathfinding, BFS, Greedy algorithms, Graphs
+[Cheap Choices](https://www.codingame.com/training/easy/cheap-choices)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Cheap-choices/Cheap-choices.java)|Lists
 [Container Terminal](https://www.codingame.com/training/easy/container-terminal)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Container-terminal/Container-terminal.java)|Stack
 [Count your coins](https://www.codingame.com/training/easy/count-your-coins)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Count-your-coins/Count-your-coins.java)|Arrays, Mathematics
 [Create the longest sequence of 1s](https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Create-the-longest-sequence-of-1s/Create-the-longest-sequence-of-1s.java)|String manipulation
