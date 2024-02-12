@@ -115,6 +115,7 @@ Description | Solution | Concepts
 [Dwarfs Standing on the Shoulders of Giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Dwarfs-standing-on-the-shoulders-of-giants/Dwarfs-standing-on-the-shoulders-of-giants.java)|Memoization, Recursion, Graphs
 [Format string validation](https://www.codingame.com/training/medium/format-string-validation)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Format-string-validation/Format-string-validation.java)|
 [Game of Life](https://www.codingame.com/training/medium/game-of-life)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Game-of-life/Game-of-life.java)|
+[Gravity Tumbler](https://www.codingame.com/training/medium/gravity-tumbler)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Gravity-tumbler/Gravity-tumbler.java)|Physics
 [Guessing N Cheating](https://www.codingame.com/training/medium/guessing-n-cheating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Guessing-n-cheating/Guessing-n-cheating.java)|Sets, Conditions, Logic
 [IP Mask Calculating](https://www.codingame.com/training/medium/ip-mask-calculating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Ip-mask-calculating/Ip-mask-calculating.java)|Loops
 [Longest Increasing Subsequence](https://www.codingame.com/training/medium/longest-increasing-subsequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Longest-Increasing-Subsequence/Longest-Increasing-Subsequence.java)|Dynamic programming
