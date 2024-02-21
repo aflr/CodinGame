@@ -23,6 +23,7 @@ Enunciado | Solución | Conceptos
 [ASCII Art The Drunken Bishop Algorithm](https://www.codingame.com/training/easy/ascii-art-the-drunken-bishop-algorithm)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Ascii-art-the-drunken-bishop-algorithm/Ascii-art-the-drunken-bishop-algorithm.java)|Bin packing, Ascii Art
 [Asteroids](https://www.codingame.com/training/easy/asteroids)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Asteroids/Asteroids.java)|
 [Binary Image](https://www.codingame.com/training/easy/binary-image)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Binary-image/Binary-image.java)|Arrays
+[Blackjack solver](https://www.codingame.com/training/easy/blackjack-solver)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Blackjack-solver/Blackjack-solver.java)|Strings, Loops, Conditions, Card games
 [Blowing Fuse](https://www.codingame.com/training/easy/blowing-fuse)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Blowing-fuse/Blowing-fuse.java)|Conditions
 [Brackets, Extreme Edition.](https://www.codingame.com/training/easy/brackets-extreme-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Brackets-extreme-edition/Brackets-extreme-edition.java)|
 [Build A Bookcase](https://www.codingame.com/training/easy/build-a-bookcase)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Build-a-bookcase/Build-a-bookcase.java)|Loops, Logic, Mathematics, Ascii Art
