@@ -89,6 +89,7 @@ Enunciado | Solución | Conceptos
 [The logo beyond C++ and C#](https://www.codingame.com/training/easy/the-logo-beyond-c-and-c)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Easy/The-logo-beyond-c-and-c/The-logo-beyond-c-and-c.java)|Parsing, 2D array, Ascii Art
 [The Other Side](https://www.codingame.com/training/easy/the-other-side)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-other-side/The-other-side.java)|Flood fill, BFS, DFS, graph traversal
 [The River I.](https://www.codingame.com/training/easy/the-river-i-)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-river-i/The-river-i.java)|Conditions
+[The weight of words](https://www.codingame.com/training/easy/the-weight-of-words)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-weight-of-words/The-weight-of-words.java)|Cryptography
 [Tile a Floor](https://www.codingame.com/training/easy/tile-a-floor)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Tile-a-floor/Tile-a-floor.java)|Logic, 2D array, Ascii Art
 [Triangle Toggle](https://www.codingame.com/training/easy/triangle-toggle)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Triangle-Toggle/Triangle-Toggle.java)|2D array, Ascii Art
 [Ulam Spiral](https://www.codingame.com/training/easy/ulam-spiral)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Ulam-spiral/Ulam-spiral.java)|Primes, Mathematics, Ascii Art
