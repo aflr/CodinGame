@@ -77,6 +77,7 @@ Description | Solution | Concepts
 [Reverse FizzBuzz](https://www.codingame.com/training/easy/reverse-fizzbuzz)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Reverse-fizzbuzz/Reverse-fizzbuzz.java)|
 [Reverse Minesweeper](https://www.codingame.com/training/easy/reverse-minesweeper)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Reverse-minesweeper/Reverse-minesweeper.java)|2D array
 [Rocks, Papers, Scissors-es](https://www.codingame.com/training/easy/rocks-papers-scissors-es)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Rocks-papers-scissors-es/Rocks-paper-scissors-es.java)|
+[Shoot Enemy Aircraft](https://www.codingame.com/training/easy/shoot-enemy-aircraft)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Shoot-enemy-aircraft/Shoot-enemy-aircraft.java)|Arrays, Loops
 [Should bakers be frugal?](https://www.codingame.com/training/easy/should-bakers-be-frugal)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Should-bakers-be-frugal/Should-bakers-be-frugal.java)|Strive for Simplicity, Resouce management, Simulation, Mathematics, Geometry
 [Snail Run](https://www.codingame.com/training/easy/snail-run)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Snail-run/Snail-run.java)|Arrays, Loops
 [Stunning Numbers](https://www.codingame.com/training/easy/stunning-numbers)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Stunning-numbers/Stunning-numbers.java)|Numbers
