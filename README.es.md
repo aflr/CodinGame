@@ -129,6 +129,7 @@ Enunciado | Solución | Conceptos
 [Gravity Tumbler](https://www.codingame.com/training/medium/gravity-tumbler)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Gravity-tumbler/Gravity-tumbler.java)|Physics
 [Guessing N Cheating](https://www.codingame.com/training/medium/guessing-n-cheating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Guessing-n-cheating/Guessing-n-cheating.java)|Sets, Conditions, Logic
 [IP Mask Calculating](https://www.codingame.com/training/medium/ip-mask-calculating)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Ip-mask-calculating/Ip-mask-calculating.java)|Loops
+[Join the Dots](https://www.codingame.com/training/medium/join-the-dots)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Join-the-dots/Join-the-dots.java)|Ascii Art
 [Longest Increasing Subsequence](https://www.codingame.com/training/medium/longest-increasing-subsequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Longest-Increasing-Subsequence/Longest-Increasing-Subsequence.java)|Dynamic programming
 [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Mayan-calculation/Mayan-calculation.java)|Strings, Radix
 [Maze](https://www.codingame.com/training/medium/maze)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Maze/Maze.java)|
