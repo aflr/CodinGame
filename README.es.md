@@ -109,6 +109,7 @@ Enunciado | Solución | Conceptos
 ## Medio / Medium
 Enunciado | Solución | Conceptos
 ----------|----------|----------
+[24 Game](https://www.codingame.com/training/medium/24-game)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/24-game/24-game.java)|Recursion, Algebra, Arithmetic
 [ASCII Art with Logo Language](https://www.codingame.com/training/medium/ascii-art-with-logo-language)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Ascii-art-with-logo-language/Ascii-art-with-logo-language.java)|Ascii Art, Interpreters
 [Bijective Numeration](https://www.codingame.com/training/medium/bijective-numeration)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Bijective-numeration/Bijective-numeration.java)|Parsing, Encoding, Radix
 [Binary Sequence](https://www.codingame.com/training/medium/binary-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Binary-sequence/Binary-sequence.java)|
