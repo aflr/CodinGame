@@ -162,6 +162,7 @@ Enunciado | Solución | Conceptos
 ## Difícil / Hard
 Enunciado | Solución | Conceptos
 ----------|----------|----------
+[CGX Formatter](https://www.codingame.com/training/hard/cgx-formatter)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Cgx-formatter/Cgx-formatter.java)|Strings, Parsing
 [Elevator](https://www.codingame.com/training/hard/elevator)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Elevator/Elevator.java)|
 [Hangman](https://www.codingame.com/training/hard/hangman)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Hangman/Hangman.java)|
 [Kolakoski Sequence](https://www.codingame.com/training/hard/kolakoski-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Kolakoski-sequence/Kolakoski-sequence.java)|
