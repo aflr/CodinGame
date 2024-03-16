@@ -28,6 +28,7 @@ Description | Solution | Concepts
 [Brackets, Extreme Edition.](https://www.codingame.com/training/easy/brackets-extreme-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Brackets-extreme-edition/Brackets-extreme-edition.java)|
 [Build A Bookcase](https://www.codingame.com/training/easy/build-a-bookcase)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Build-a-bookcase/Build-a-bookcase.java)|Loops, Logic, Mathematics, Ascii Art
 [Caesar is the Chief](https://www.codingame.com/training/easy/caesar-is-the-chief)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Caesar-is-the-chief/Caesar-is-the-chief.java)|String manipulation, Cipher
+[Card Counting when easily distracted](https://www.codingame.com/training/easy/card-counting-when-easily-distracted)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Card-counting-when-easily-distracted/Card-counting-when-easily-distracted.java)|String manipulation, Probability, Card games
 [Catching Up](https://www.codingame.com/training/easy/catching-up)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Catching-up/Catching-up.java)|Pathfinding, BFS, Greedy algorithms, Graphs
 [Cheap Choices](https://www.codingame.com/training/easy/cheap-choices)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Cheap-choices/Cheap-choices.java)|Lists
 [Container Terminal](https://www.codingame.com/training/easy/container-terminal)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Container-terminal/Container-terminal.java)|Stack
