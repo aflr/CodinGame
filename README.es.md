@@ -96,6 +96,7 @@ Enunciado | Solución | Conceptos
 [The Broken Editor](https://www.codingame.com/training/easy/the-broken-editor)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-broken-editor/The-broken-editor.java)|Arrays, String manipulation
 [The Descent](https://www.codingame.com/training/easy/the-descent)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-descent/The-descent.java)|Loops
 [The logo beyond C++ and C#](https://www.codingame.com/training/easy/the-logo-beyond-c-and-c)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Easy/The-logo-beyond-c-and-c/The-logo-beyond-c-and-c.java)|Parsing, 2D array, Ascii Art
+[The Mystic Rectangle](https://www.codingame.com/training/easy/the-mystic-rectangle)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-mystic-rectangle/The-mystic-rectangle.java)|Distances, Coordinates
 [The Other Side](https://www.codingame.com/training/easy/the-other-side)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-other-side/The-other-side.java)|Flood fill, BFS, DFS, graph traversal
 [The River I.](https://www.codingame.com/training/easy/the-river-i-)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-river-i/The-river-i.java)|Conditions
 [The weight of words](https://www.codingame.com/training/easy/the-weight-of-words)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-weight-of-words/The-weight-of-words.java)|Cryptography
