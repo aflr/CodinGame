@@ -89,6 +89,7 @@ Enunciado | Solución | Conceptos
 [Shoot Enemy Aircraft](https://www.codingame.com/training/easy/shoot-enemy-aircraft)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Shoot-enemy-aircraft/Shoot-enemy-aircraft.java)|Arrays, Loops
 [Should bakers be frugal?](https://www.codingame.com/training/easy/should-bakers-be-frugal)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Should-bakers-be-frugal/Should-bakers-be-frugal.java)|Strive for Simplicity, Resouce management, Simulation, Mathematics, Geometry
 [Snail Run](https://www.codingame.com/training/easy/snail-run)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Snail-run/Snail-run.java)|Arrays, Loops
+[Square Spiral for Alien Contact 👽](https://www.codingame.com/training/easy/square-spiral-for-alien-contact)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Square-spiral-for-alien-contact/Square-spiral-for-alien-contact.java)|2D array, String manipulation
 [Stunning Numbers](https://www.codingame.com/training/easy/stunning-numbers)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Stunning-numbers/Stunning-numbers.java)|Numbers
 [Substitution Encoding](https://www.codingame.com/training/easy/substitution-encoding)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Substitution-encoding/Substitution-encoding.java)|Strings, Encoding, 2D array, String manipulation
 [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Sudoku-validator/Sudoku-validator.java)|Conditions, 2D array
