@@ -59,6 +59,7 @@ Enunciado | Solución | Conceptos
 [IPv6 Shortener](https://www.codingame.com/training/easy/ipv6-shortener)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Easy/Ipv6-shortener/Ipv6-shortener.java)|Strings, Parsing, Loops, Regular expressions
 [Is that a possible word?](https://www.codingame.com/training/easy/is-that-a-possible-word)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Is-that-a-possible-word/Is-that-a-possible-word.java)|State machine
 [ISBN Check Digit](https://www.codingame.com/training/easy/isbn-check-digit)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/ISBN-check-digit/ISBN-check-digit.java)|Check-digit, Arithmetic
+[Kangaroo words](https://www.codingame.com/training/easy/kangaroo-words)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Kangaroo-words/Kangaroo-words.java)|Loops, Sorting, string
 [Largest Number](https://www.codingame.com/training/easy/largest-number)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Largest-number/Largest-number.java)|
 [Logic Gates](https://www.codingame.com/training/easy/logic-gates)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Logic-gates/Logic-gates.java)|Logic
 [Lumen](https://www.codingame.com/training/easy/lumen)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Lumen/Lumen.java)|Loops, 2D array
