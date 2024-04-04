@@ -108,7 +108,7 @@ Description | Solution | Concepts
 [Tile a Floor](https://www.codingame.com/training/easy/tile-a-floor)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Tile-a-floor/Tile-a-floor.java)|Logic, 2D array, Ascii Art
 [Triangle Toggle](https://www.codingame.com/training/easy/triangle-toggle)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Triangle-Toggle/Triangle-Toggle.java)|2D array, Ascii Art
 [Ulam Spiral](https://www.codingame.com/training/easy/ulam-spiral)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Ulam-spiral/Ulam-spiral.java)|Primes, Mathematics, Ascii Art
-[Unary](https://www.codingame.com/training/easy/unary)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Unary/Unary.java)|Strings, Encoding, Loops, Conditions
+[Unary](https://www.codingame.com/training/easy/unary)|[Groovy](https://github.com/aflr/CodinGame/blob/main/Easy/Unary/Unary.groovy), [Java](https://github.com/aflr/CodinGame/blob/main/Easy/Unary/Unary.java)|Strings, Encoding, Loops, Conditions
 [Where's Wally](https://www.codingame.com/training/easy/wheres-wally)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Wheres-wally/Wheres-wally.java)|Regular expressions, String manipulation, Ascii Art
 [Word Search for Programmers](https://www.codingame.com/training/easy/word-search-for-programmers)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Word-search-for-programmers/Word-search-for-programmers.java)|Loops, Conditions, 2D array, String manipulation
 [Wordle Colorizer](https://www.codingame.com/training/easy/wordle-colorizer)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Wordle-colorizer/Wordle-colorizer.java)|
