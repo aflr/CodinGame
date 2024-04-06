@@ -2,7 +2,7 @@
 
 🚀 Aquí se pueden encontrar algunas de mis soluciones funcionales a los puzles de programación de la página [CodinGame](https://www.codingame.com).
 
-☕ Las soluciones están escritas principalmente en Java, aunque hay también algunas en C, C++, JavaScript, PHP, o Python.
+☕ Las soluciones están escritas principalmente en Java, aunque hay también algunas en C, C++, Groovy, JavaScript, PHP, o Python.
 
 ✔️ Todo el código ha pasado con éxito los tests y validadores de CodinGame. ✔️
 
