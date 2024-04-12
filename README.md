@@ -92,6 +92,7 @@ Description | Solution | Concepts
 [Should bakers be frugal?](https://www.codingame.com/training/easy/should-bakers-be-frugal)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Should-bakers-be-frugal/Should-bakers-be-frugal.java)|Strive for Simplicity, Resouce management, Simulation, Mathematics, Geometry
 [Six Degrees of Kevin Bacon](https://www.codingame.com/training/easy/six-degrees-of-kevin-bacon)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Six-degrees-of-kevin-bacon/Six-degrees-of-kevin-bacon.java)|BFS, Lists, Graphs
 [Snail Run](https://www.codingame.com/training/easy/snail-run)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Snail-run/Snail-run.java)|Arrays, Loops
+[Snake Sort 2D](https://www.codingame.com/training/easy/snake-sort-2d)|[Groovy](https://github.com/aflr/CodinGame/blob/main/Easy/Snake-sort-2d/Snake-sort-2d.groovy)|Sorting
 [Square Spiral for Alien Contact 👽](https://www.codingame.com/training/easy/square-spiral-for-alien-contact)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Square-spiral-for-alien-contact/Square-spiral-for-alien-contact.java)|2D array, String manipulation
 [Stunning Numbers](https://www.codingame.com/training/easy/stunning-numbers)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Stunning-numbers/Stunning-numbers.java)|Numbers
 [Substitution Encoding](https://www.codingame.com/training/easy/substitution-encoding)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Substitution-encoding/Substitution-encoding.java)|Strings, Encoding, 2D array, String manipulation
