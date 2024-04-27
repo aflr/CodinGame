@@ -116,6 +116,7 @@ Description | Solution | Concepts
 [Word Search for Programmers](https://www.codingame.com/training/easy/word-search-for-programmers)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Word-search-for-programmers/Word-search-for-programmers.java)|Loops, Conditions, 2D array, String manipulation
 [Wordle Colorizer](https://www.codingame.com/training/easy/wordle-colorizer)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Wordle-colorizer/Wordle-colorizer.java)|
 ["You are the Father": Maury Povich Style](https://www.codingame.com/training/easy/you-are-the-father-maury-povich-style)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/You-are-the-father-maury-povich-style/You-are-the-father-maury-povich-style.java)|String manipulation
+[Zeckendorf representation, part I](https://www.codingame.com/training/easy/zeckendorf-representation-part-i)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Zeckendorfs-representation-part-i/Zeckendorfs-representation-part-i.java)|Recursion, Greedy algorithms, Arithmetic, Mathematics, Numbers
 
 
 ## Medium
