@@ -13,6 +13,7 @@
 ## Easy
 Description | Solution | Concepts
 ----------|----------|----------
+[1. NGR - Basic Radar](https://www.codingame.com/training/easy/1--ngr---basic-radar)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/1-ngr-basic-radar/1-ngr-basic-radar.java)|
 [1000000000D World](https://www.codingame.com/training/easy/1000000000d-world)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/1000000000d-world/1000000000d-world.java)|Arrays
 [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/1d-spreadsheet/1d-spreadsheet.java)|Memoization, Lazy Evaluation, Dependency Graph
 [7-Segment Scanner](https://www.codingame.com/training/easy/7-segment-scanner)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/7-segment-scanner/7-segment-scanner.java)|Loops, Conditions, String manipulation, Ascii Art
