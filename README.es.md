@@ -41,7 +41,7 @@ Enunciado | Solución | Conceptos
 [Create the longest sequence of 1s](https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Create-the-longest-sequence-of-1s/Create-the-longest-sequence-of-1s.java)|String manipulation
 [Create 'Turn Here' Signs](https://www.codingame.com/training/easy/create-turn-here-signs)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Create-turn-here-signs/Create-turn-here-signs.java)|Loops, Logic, String manipulation, Ascii Art
 [Credit Card Verifier (Luhn's Algorithm)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Credit-card-verifier-luhns-algorithm/Credit-card-verifier-luhns-algorithm.java)|Check-digit
-[Crop-Circles](https://www.codingame.com/training/easy/crop-circles)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Easy/Crop-circles/Crop-circles.java)|2D array, Geometry, Ascii Art
+[Crop-Circles](https://www.codingame.com/training/easy/crop-circles)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Crop-circles/Crop-circles.java)|2D array, Geometry, Ascii Art
 [Defibrillators](https://www.codingame.com/training/easy/defibrillators)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Defibrillators/Defibrillators.java)|Loops, Distances, Trigonometry
 [Detective Pikaptcha EP1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Detective-pikaptcha-ep1/Detective-pikaptcha-ep1.java)|Maze
 [Digital Scoreboard](https://www.codingame.com/training/easy/digital-scoreboard)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Digital-scoreboard/Digital-scoreboard.java)|Parsing, 2D array, Ascii Art
@@ -61,7 +61,7 @@ Enunciado | Solución | Conceptos
 [How high up does the beer go?](https://www.codingame.com/training/easy/how-high-up-does-the-beer-go)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/How-high-up-does-the-beer-go/How-high-up-does-the-beer-go.java)|Geometry
 [Hunger Games](https://www.codingame.com/training/easy/hunger-games)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Hunger-games/Hunger-games.java)|Sorting
 [Interstellar](https://www.codingame.com/training/easy/interstellar)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Interstellar/Interstellar.java)|Strings, Graphs, Distances, String manipulation, Coordinates
-[IPv6 Shortener](https://www.codingame.com/training/easy/ipv6-shortener)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Easy/Ipv6-shortener/Ipv6-shortener.java)|Strings, Parsing, Loops, Regular expressions
+[IPv6 Shortener](https://www.codingame.com/training/easy/ipv6-shortener)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Ipv6-shortener/Ipv6-shortener.java)|Strings, Parsing, Loops, Regular expressions
 [Is that a possible word?](https://www.codingame.com/training/easy/is-that-a-possible-word)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Is-that-a-possible-word/Is-that-a-possible-word.java)|State machine
 [ISBN Check Digit](https://www.codingame.com/training/easy/isbn-check-digit)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/ISBN-check-digit/ISBN-check-digit.java)|Check-digit, Arithmetic
 [Kangaroo words](https://www.codingame.com/training/easy/kangaroo-words)|[Groovy](https://github.com/aflr/CodinGame/blob/main/Easy/Kangaroo-words/Kangaroo-words.groovy), [Java](https://github.com/aflr/CodinGame/blob/main/Easy/Kangaroo-words/Kangaroo-words.java)|Loops, Sorting, string
@@ -109,7 +109,7 @@ Enunciado | Solución | Conceptos
 [Temperatures](https://www.codingame.com/training/easy/temperatures)|[C](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.c), [Groovy](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.groovy), [Java](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.java), [JavaScript](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.js), [Lua](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.lua), [PHP](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.php), [Python3](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.py), [TypeScript](https://github.com/aflr/CodinGame/blob/main/Easy/Temperatures/Temperatures.ts)|Arrays, Loops, Conditions
 [The Broken Editor](https://www.codingame.com/training/easy/the-broken-editor)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-broken-editor/The-broken-editor.java)|Arrays, String manipulation
 [The Descent](https://www.codingame.com/training/easy/the-descent)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-descent/The-descent.java), [Swift](https://github.com/aflr/CodinGame/blob/main/Easy/The-descent/The-descent.swift)|Loops
-[The logo beyond C++ and C#](https://www.codingame.com/training/easy/the-logo-beyond-c-and-c)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Easy/The-logo-beyond-c-and-c/The-logo-beyond-c-and-c.java)|Parsing, 2D array, Ascii Art
+[The logo beyond C++ and C#](https://www.codingame.com/training/easy/the-logo-beyond-c-and-c)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-logo-beyond-c-and-c/The-logo-beyond-c-and-c.java)|Parsing, 2D array, Ascii Art
 [The Mystic Rectangle](https://www.codingame.com/training/easy/the-mystic-rectangle)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-mystic-rectangle/The-mystic-rectangle.java)|Distances, Coordinates
 [The Other Side](https://www.codingame.com/training/easy/the-other-side)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-other-side/The-other-side.java)|Flood fill, BFS, DFS, graph traversal
 [The River I.](https://www.codingame.com/training/easy/the-river-i-)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/The-river-i/The-river-i.java)|Conditions
@@ -170,7 +170,7 @@ Enunciado | Solución | Conceptos
 [Scrabble](https://www.codingame.com/training/medium/scrabble)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Scrabble/Scrabble.java)|Loops, Conditions
 [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Shadows-of-the-knight-episode-1/Shadows-of-the-knight-episode-1.java)|Binary search, Intervals
 [Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Stock-exchange-losses/Stock-exchange-losses.java)|Arrays, Loops, Conditions
-[Sudoku Solver](https://www.codingame.com/training/medium/sudoku-solver)|[C++](https://github.com/aflr/CodinGame/blob/main/Medium/Sudoku-solver/Sudoku-solver.cpp), [Java ✨](https://github.com/aflr/CodinGame/blob/main/Medium/Sudoku-solver/Sudoku-solver.java)|Backtracking
+[Sudoku Solver](https://www.codingame.com/training/medium/sudoku-solver)|[C++](https://github.com/aflr/CodinGame/blob/main/Medium/Sudoku-solver/Sudoku-solver.cpp), [Java](https://github.com/aflr/CodinGame/blob/main/Medium/Sudoku-solver/Sudoku-solver.java)|Backtracking
 [Tennis Score](https://www.codingame.com/training/medium/tennis-score)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Tennis-score/Tennis-score.java)|Arrays, Loops, Conditions
 [The Fall - Episode 1](https://www.codingame.com/training/medium/the-fall-episode-1)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/The-fall-episode-1/The-fall-episode-1.java)|Conditions
 [The Gift](https://www.codingame.com/training/medium/the-gift)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/The-gift/The-gift.java)|Greedy algorithms
@@ -188,10 +188,10 @@ Enunciado | Solución | Conceptos
 [Elevator](https://www.codingame.com/training/hard/elevator)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Elevator/Elevator.java)|
 [Hangman](https://www.codingame.com/training/hard/hangman)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Hangman/Hangman.java)|
 [Kolakoski Sequence](https://www.codingame.com/training/hard/kolakoski-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Kolakoski-sequence/Kolakoski-sequence.java)|
-[Maximising Integers](https://www.codingame.com/training/hard/maximising-integers)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Hard/Maximising-integers/Maximising-integers.java), [Swift](https://github.com/aflr/CodinGame/blob/main/Hard/Maximising-integers/Maximising-integers.swift)|Greedy algorithms
+[Maximising Integers](https://www.codingame.com/training/hard/maximising-integers)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Maximising-integers/Maximising-integers.java), [Swift](https://github.com/aflr/CodinGame/blob/main/Hard/Maximising-integers/Maximising-integers.swift)|Greedy algorithms
 [Mini Sudoku Solver](https://www.codingame.com/training/hard/mini-sudoku-solver)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Mini-sudoku-solver/Mini-sudoku-solver.java)|
 [SHA-256 Hash](https://www.codingame.com/training/hard/sha-256-hash)|[C++](https://github.com/aflr/CodinGame/blob/main/Hard/Sha-256-hash/Sha-256-hash.cpp)|Cryptography
-[TAN Network](https://www.codingame.com/training/hard/tan-network)|[Java ✨](https://github.com/aflr/CodinGame/blob/main/Hard/Tan-network/Tan-network.java)|Pathfinding, Graphs, Distances, Trigonometry
+[TAN Network](https://www.codingame.com/training/hard/tan-network)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Tan-network/Tan-network.java)|Pathfinding, Graphs, Distances, Trigonometry
 [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/The-greatest-number/The-greatest-number.java)|
 [The Hidden Fortress](https://www.codingame.com/training/hard/the-hidden-fortress)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/The-hidden-fortress/The-hidden-fortress.java)|Logic
 [Zergling Rush](https://www.codingame.com/training/hard/zergling-rush)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Zergling-rush/Zergling-rush.java)|
@@ -203,7 +203,3 @@ Enunciado | Solución | Conceptos
 [Recurring Decimals](https://www.codingame.com/training/expert/recurring-decimals)|[Java](https://github.com/aflr/CodinGame/blob/main/Very%20Hard/Recurring-decimals/Recurring-decimals.java)|
 
 <br>
-
-
-### Leyenda
-✨ = Solución notable
