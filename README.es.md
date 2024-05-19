@@ -194,6 +194,7 @@ Enunciado | Solución | Conceptos
 [TAN Network](https://www.codingame.com/training/hard/tan-network)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Tan-network/Tan-network.java)|Pathfinding, Graphs, Distances, Trigonometry
 [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/The-greatest-number/The-greatest-number.java)|
 [The Hidden Fortress](https://www.codingame.com/training/hard/the-hidden-fortress)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/The-hidden-fortress/The-hidden-fortress.java)|Logic
+[The Total is Right - Weird edition](https://www.codingame.com/training/hard/the-total-is-right---weird-edition)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/The-total-is-right-weird-edition/The-total-is-right-weird-edition.java)|Brute-force, Arithmetic
 [Zergling Rush](https://www.codingame.com/training/hard/zergling-rush)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Zergling-rush/Zergling-rush.java)|
 
 ## Muy difícil / Very hard
