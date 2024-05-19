@@ -18,7 +18,7 @@ class Solution {
                         while (it2.hasNext()) {
                             int n2 = it2.next();
                             set.add(n1 + n2);
-                            set.add(n1 - n2);
+                            set.add(Math.abs(n1 - n2));
                             set.add(n1 * n2);
                             if (n2 != 0 && n1 % n2 == 0)
                                 set.add(n1 / n2);
