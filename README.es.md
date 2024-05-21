@@ -187,7 +187,7 @@ Enunciado | Solución | Conceptos
 [CGX Formatter](https://www.codingame.com/training/hard/cgx-formatter)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Cgx-formatter/Cgx-formatter.java)|Strings, Parsing
 [Elevator](https://www.codingame.com/training/hard/elevator)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Elevator/Elevator.java)|
 [Hangman](https://www.codingame.com/training/hard/hangman)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Hangman/Hangman.java)|
-[Kolakoski Sequence](https://www.codingame.com/training/hard/kolakoski-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Kolakoski-sequence/Kolakoski-sequence.java)|
+[Kolakoski Sequence](https://www.codingame.com/training/hard/kolakoski-sequence)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Kolakoski-sequence/Kolakoski-sequence.java), [Swift](https://github.com/aflr/CodinGame/blob/main/Hard/Kolakoski-sequence/Kolakoski-sequence.swift)|
 [Maximising Integers](https://www.codingame.com/training/hard/maximising-integers)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Maximising-integers/Maximising-integers.java), [Swift](https://github.com/aflr/CodinGame/blob/main/Hard/Maximising-integers/Maximising-integers.swift)|Greedy algorithms
 [Mini Sudoku Solver](https://www.codingame.com/training/hard/mini-sudoku-solver)|[Java](https://github.com/aflr/CodinGame/blob/main/Hard/Mini-sudoku-solver/Mini-sudoku-solver.java)|
 [SHA-256 Hash](https://www.codingame.com/training/hard/sha-256-hash)|[C++](https://github.com/aflr/CodinGame/blob/main/Hard/Sha-256-hash/Sha-256-hash.cpp)|Cryptography
