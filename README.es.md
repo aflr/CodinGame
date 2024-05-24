@@ -27,7 +27,7 @@ Enunciado | Solución | Conceptos
 [ASCII Art The Drunken Bishop Algorithm](https://www.codingame.com/training/easy/ascii-art-the-drunken-bishop-algorithm)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Ascii-art-the-drunken-bishop-algorithm/Ascii-art-the-drunken-bishop-algorithm.java)|Bin packing, Ascii Art
 [Asteroids](https://www.codingame.com/training/easy/asteroids)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Asteroids/Asteroids.java), [Swift](https://github.com/aflr/CodinGame/blob/main/Easy/Asteroids/Asteroids.swift)|
 [Auto pickup](https://www.codingame.com/training/easy/auto-pickup)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Auto-pickup/Auto-pickup.java)|Parsing, String manipulation
-[Bank Robbers](https://www.codingame.com/training/easy/bank-robbers)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Bank-robbers/Bank-robbers.java)|Loops, Mathematics
+[Bank Robbers](https://www.codingame.com/training/easy/bank-robbers)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Bank-robbers/Bank-robbers.java), [Swift](https://github.com/aflr/CodinGame/blob/main/Easy/Bank-robbers/Bank-robbers.swift)|Loops, Mathematics
 [Binary Image](https://www.codingame.com/training/easy/binary-image)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Binary-image/Binary-image.java)|Arrays
 [Blackjack solver](https://www.codingame.com/training/easy/blackjack-solver)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Blackjack-solver/Blackjack-solver.java)|Strings, Loops, Conditions, Card games
 [Blowing Fuse](https://www.codingame.com/training/easy/blowing-fuse)|[Java](https://github.com/aflr/CodinGame/blob/main/Easy/Blowing-fuse/Blowing-fuse.java)|Conditions
