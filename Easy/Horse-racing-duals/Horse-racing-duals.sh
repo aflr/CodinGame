@@ -1,17 +1,14 @@
-read n
-declare -a horses
-declare -a sorted
-closest=10000000; last=-1
-for ((i=0 ; i<n ; i++)); do
-    read pi
-    sorted[pi]=1
+read -r N
+for (( i=0; i<N; i++ )); do
+    read -r Pi
+    horses[i]=$Pi 
 done
-if [[ ${#sorted[@]} -ne n ]]; then closest=0;
-else
-    for i in ${!sorted[@]}; do
-        if [[ $last -ne -1 && $(($i-$last)) -lt $closest ]]; then 
-            closest=$(($i-$last)); fi
-        last=$i
-    done
-fi
-echo $closest
+horses=($(echo "${horses[@]}" | tr ' ' '\n' | sort -n | tr '\n' ' '))
+min=10000000
+for (( i=1; i<N; i++ )); do
+	diff=$((horses[i]-horses[i-1]))
+	if (( diff < min )); then
+		min=$diff
+	fi
+done
+echo $min
