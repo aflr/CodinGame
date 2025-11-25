@@ -135,6 +135,7 @@ Description | Solution | Concepts
 Description | Solution | Concepts
 ----------|----------|----------
 [24 Game](https://www.codingame.com/training/medium/24-game)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/24-game/24-game.java)|Recursion, Algebra, Arithmetic
+[Advanced Tree](https://www.codingame.com/training/medium/advanced-tree)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Advanced-tree/Advanced-tree.java)|
 [ASCII Art with Logo Language](https://www.codingame.com/training/medium/ascii-art-with-logo-language)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Ascii-art-with-logo-language/Ascii-art-with-logo-language.java)|Ascii Art, Interpreters
 [Bijective Numeration](https://www.codingame.com/training/medium/bijective-numeration)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Bijective-numeration/Bijective-numeration.java)|Parsing, Encoding, Radix
 [Binary Search Tree Traversal](https://www.codingame.com/training/medium/binary-search-tree-traversal)|[Java](https://github.com/aflr/CodinGame/blob/main/Medium/Binary-Search-Tree-Traversal/Binary-Search-Tree-Traversal.java)|graph traversal, Binary Tree
